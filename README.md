@@ -1,0 +1,2 @@
+# MysqlProjects
+All Mysql queries .
